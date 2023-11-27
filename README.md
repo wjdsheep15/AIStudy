@@ -6,6 +6,8 @@ Google Colaboratory 사용
 
 언어 : Python
 
+OS : Window11
+
 공부 기간 : 2023년 9월 부터~~
 
 # 데이터 전처리 방법
